@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackieIkeda24
 - 🔬 Research Scientist | Bioinformatics & Computational Biology | Data Science
-- 🌱 Currently developing skills in data science and bioinformatics for genetic and cancer research applications.
+- 🌱 Currently developing skills in data science and bioinformatics for research and operational applications.
 - 🔍 Actively seeking collaboration opportunities on life science, biological science, and related projects.
 - 📧 Reach me via email:  <ikeda.chiaki.24@gmail.com>
 
